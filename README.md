@@ -1,8 +1,8 @@
 # bot_trading 
 
-The code it´s on the branch master
+The code it´s on the branch master!!!
 
-El codigo esta en la rama master
+El codigo esta en la rama master!!!
 
 This is a trading bot develop in python for Binance exhange
 
